@@ -1,0 +1,14 @@
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\obj\Debug\net8.0\Task1_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\obj\Debug\net8.0\Task1_Inheritance.AssemblyInfoInputs.cache
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\obj\Debug\net8.0\Task1_Inheritance.AssemblyInfo.cs
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\obj\Debug\net8.0\Task1_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\bin\Debug\net8.0\Task1_Inheritance.exe
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\bin\Debug\net8.0\Task1_Inheritance.deps.json
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\bin\Debug\net8.0\Task1_Inheritance.runtimeconfig.json
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\bin\Debug\net8.0\Task1_Inheritance.dll
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\bin\Debug\net8.0\Task1_Inheritance.pdb
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\obj\Debug\net8.0\Task1_Inheritance.dll
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\obj\Debug\net8.0\refint\Task1_Inheritance.dll
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\obj\Debug\net8.0\Task1_Inheritance.pdb
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\obj\Debug\net8.0\Task1_Inheritance.genruntimeconfig.cache
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task1_Inheritanc\obj\Debug\net8.0\ref\Task1_Inheritance.dll
