@@ -1,0 +1,14 @@
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\bin\Debug\net8.0\Task2_Abstract.exe
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\bin\Debug\net8.0\Task2_Abstract.deps.json
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\bin\Debug\net8.0\Task2_Abstract.runtimeconfig.json
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\bin\Debug\net8.0\Task2_Abstract.dll
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\bin\Debug\net8.0\Task2_Abstract.pdb
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\obj\Debug\net8.0\Task2_Abstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\obj\Debug\net8.0\Task2_Abstract.AssemblyInfoInputs.cache
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\obj\Debug\net8.0\Task2_Abstract.AssemblyInfo.cs
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\obj\Debug\net8.0\Task2_Abstract.csproj.CoreCompileInputs.cache
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\obj\Debug\net8.0\Task2_Abstract.dll
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\obj\Debug\net8.0\refint\Task2_Abstract.dll
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\obj\Debug\net8.0\Task2_Abstract.pdb
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\obj\Debug\net8.0\Task2_Abstract.genruntimeconfig.cache
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task2_Abstract\obj\Debug\net8.0\ref\Task2_Abstract.dll
