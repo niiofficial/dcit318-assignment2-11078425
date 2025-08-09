@@ -1,0 +1,14 @@
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\bin\Debug\net8.0\Task3_Interface.exe
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\bin\Debug\net8.0\Task3_Interface.deps.json
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\bin\Debug\net8.0\Task3_Interface.runtimeconfig.json
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\bin\Debug\net8.0\Task3_Interface.dll
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\bin\Debug\net8.0\Task3_Interface.pdb
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\obj\Debug\net8.0\Task3_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\obj\Debug\net8.0\Task3_Interface.AssemblyInfoInputs.cache
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\obj\Debug\net8.0\Task3_Interface.AssemblyInfo.cs
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\obj\Debug\net8.0\Task3_Interface.csproj.CoreCompileInputs.cache
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\obj\Debug\net8.0\Task3_Interface.dll
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\obj\Debug\net8.0\refint\Task3_Interface.dll
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\obj\Debug\net8.0\Task3_Interface.pdb
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\obj\Debug\net8.0\Task3_Interface.genruntimeconfig.cache
+C:\Users\riche\OneDrive\Desktop\DCIT\318 Assignment 2\dcit318-assignment2-11078425\dcit318-assignment2-11078425\Task3_Interface\obj\Debug\net8.0\ref\Task3_Interface.dll
